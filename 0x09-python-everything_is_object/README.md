@@ -39,7 +39,7 @@
 ### Advanced
 - [x] Task 29
 - [x] Task 30
-- [ ] Task 31
-- [ ] Task 32
-- [ ] Task 33
-- [ ] Task 34
+- [x] Task 31
+- [x] Task 32
+- [x] Task 33
+- [x] Task 34
