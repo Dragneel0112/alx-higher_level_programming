@@ -20,5 +20,5 @@
 - [x] Task 11
 
 ### Advanced
-- [ ] Task 12
+- [x] Task 12
 - [ ] Task 13
