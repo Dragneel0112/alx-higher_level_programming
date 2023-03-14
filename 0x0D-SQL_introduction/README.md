@@ -22,7 +22,7 @@
 - [x] Task 13
 - [x] Task 14
 - [x] Task 15
-- [ ] Task 16
+- [x] Task 16
 
 ### Advanced
 - [ ] Task 17
