@@ -25,7 +25,7 @@
 - [x] Task 16
 
 ### Advanced
-- [ ] Task 17
+- [x] Task 17
 - [ ] Task 18
 - [ ] Task 19
 - [ ] Task 20
