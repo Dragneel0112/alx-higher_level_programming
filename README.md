@@ -1,6 +1,8 @@
 # alx-higher_level_programming
 
 ---
+* Contains directories with Tasks of Python, SQL and JavaScript
+---
 ## Directories:
 * 0x00-python-hello_world
 * 0x01-python-if_else_loops_functions
@@ -15,3 +17,7 @@
 * 0x0A-python-inheritance
 * 0x0B-python-input_output
 * 0x0C-python-almost_a_circle
+* 0x0D-SQL_introduction
+* 0x0E-SQL_more_queries
+* 0x12-javascript-warm_up
+* 0x13-javascript_objects_scopes_closures
