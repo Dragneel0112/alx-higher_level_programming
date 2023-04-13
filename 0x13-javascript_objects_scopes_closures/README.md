@@ -20,7 +20,7 @@
 * [x] Task 7
 * [x] Task 8
 * [x] Task 9
-* [ ] Task 10
+* [x] Task 10
 
 ### Advanced
 
