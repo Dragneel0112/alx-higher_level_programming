@@ -19,7 +19,7 @@
 * [x] Task 6
 * [x] Task 7
 * [x] Task 8
-* [ ] Task 9
+* [x] Task 9
 * [ ] Task 10
 * [ ] Task 11
 * [ ] Task 12
