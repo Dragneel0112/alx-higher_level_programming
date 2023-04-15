@@ -28,6 +28,6 @@
 
 ### Advanced
 
-* [ ] Task 15
-* [ ] Task 16
+* [x] Task 15
+* [x] Task 16
 * [ ] Task 17
