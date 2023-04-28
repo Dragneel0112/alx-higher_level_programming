@@ -25,5 +25,5 @@
 | Tasks | Description | File |
 | ----- | ----- | ----- |
 | <ul><li> - [x] Task 7 </li></ul> | 7. Only status code | [100-status_code.sh](100-status_code.sh) | 
-| <ul><li> - [ ] Task 8 </li></ul> | 8. cURL a JSON file | [101-post_json.sh](101-post_json.sh) |
+| <ul><li> - [x] Task 8 </li></ul> | 8. cURL a JSON file | [101-post_json.sh](101-post_json.sh) |
 | <ul><li> - [ ] Task 9 </li></ul> | 9. Catch me if you can! | [102-catch_me.sh](102-catch_me.sh) |
