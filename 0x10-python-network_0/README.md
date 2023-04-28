@@ -12,7 +12,7 @@
 
 | Tasks | Description | File |
 | ----- | ----- | ----- |
-| <ul><li> - [ ] Task 0 </li></ul> | 0. cURL body size | [0-body_size.sh](0-body_size.sh) |
+| <ul><li> - [x] Task 0 </li></ul> | 0. cURL body size | [0-body_size.sh](0-body_size.sh) |
 | <ul><li> - [ ] Task 1 </li></ul> | 1. cURL to the end | [1-body.sh](1-body.sh) |
 | <ul><li> - [ ] Task 2 </li></ul> | 2. cURL Method | [2-delete.sh](2-delete.sh) |
 | <ul><li> - [ ] Task 3 </li></ul> | 3. cURL only methods | [3-methods.sh](3-methods.sh) |
