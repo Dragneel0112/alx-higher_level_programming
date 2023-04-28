@@ -16,7 +16,7 @@
 | <ul><li> - [x] Task 1 </li></ul> | 1. cURL to the end | [1-body.sh](1-body.sh) |
 | <ul><li> - [x] Task 2 </li></ul> | 2. cURL Method | [2-delete.sh](2-delete.sh) |
 | <ul><li> - [x] Task 3 </li></ul> | 3. cURL only methods | [3-methods.sh](3-methods.sh) |
-| <ul><li> - [ ] Task 4 </li></ul> | 4. cURL headers | [4-header.sh](4-header.sh) |
+| <ul><li> - [x] Task 4 </li></ul> | 4. cURL headers | [4-header.sh](4-header.sh) |
 | <ul><li> - [ ] Task 5 </li></ul> | 5. cURL POST parameters | [5-post_params.sh](5-post_params.sh) |
 | <ul><li> - [ ] Task 6 </li></ul> | 6. Find a peak | [6-peak.py](6-peak.py) ; [6-peak.txt](6-peak.txt) |
 
