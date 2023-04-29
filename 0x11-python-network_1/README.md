@@ -27,4 +27,4 @@
 
 | Tasks | Description | File |
 | ----- | ----- | ----- |
-| <ul><li> - [ ] Task 10 </li></ul> | 10. Time for an interview! | [100-github_commits.py](100-github_commits.py) |
+| <ul><li> - [x] Task 10 </li></ul> | 10. Time for an interview! | [100-github_commits.py](100-github_commits.py) |
