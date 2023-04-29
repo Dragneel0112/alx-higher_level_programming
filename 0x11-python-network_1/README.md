@@ -12,7 +12,7 @@
 
 | Tasks | Description | Files |
 | ----- | ----- | -----|
-| <ul><li> - [ ] Task 0 </li></ul> | 0. What's my status? #0 | [0-hbtn_status.py](0-hbtn_status.py) |
+| <ul><li> - [x] Task 0 </li></ul> | 0. What's my status? #0 | [0-hbtn_status.py](0-hbtn_status.py) |
 | <ul><li> - [ ] Task 1 </li></ul> | 1. Response header value #0 | [1-hbtn_header.py](1-hbtn_header.py) |
 | <ul><li> - [ ] Task 2 </li></ul> | 2. POST an email #0 | [2-post_email.py](2-post_email.py) |
 | <ul><li> - [ ] Task 3 </li></ul> | 3. Error code #0 | [3-error_code.py](3-error_code.py) |
