@@ -24,5 +24,5 @@
 
 | Tasks | Description | Files |
 | ----- | ----- | ----- |
-| <ul><li> - [ ] Task 7 </li></ul> | 7. Who was playing in this movie? | [100-starwars_characters.js](100-starwars_characters.js) |
+| <ul><li> - [x] Task 7 </li></ul> | 7. Who was playing in this movie? | [100-starwars_characters.js](100-starwars_characters.js) |
 | <ul><li> - [ ] Task 8 </li></ul> | 8. Right order | [101-starwars_characters.js](101-starwars_characters.js) |
