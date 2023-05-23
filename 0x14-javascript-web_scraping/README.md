@@ -18,7 +18,7 @@
 | <ul><li> - [x] Task 3 </li></ul> | 3. Star wars movie title | [3-starwars_title.js](3-starwars_title.js) |
 | <ul><li> - [x] Task 4 </li></ul> | 4. Star wars Wedge Antilles | [4-starwars_count.js](4-starwars_count.js) |
 | <ul><li> - [x] Task 5 </li></ul> | 5. Loripsum | [5-request_store.js](5-request_store.js) |
-| <ul><li> - [ ] Task 6 </li></ul> | 6. How many completed? | [6-completed_tasks.js](6-completed_tasks.js) |
+| <ul><li> - [x] Task 6 </li></ul> | 6. How many completed? | [6-completed_tasks.js](6-completed_tasks.js) |
 
 ### Advanced
 
