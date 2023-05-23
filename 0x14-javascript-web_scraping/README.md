@@ -12,7 +12,7 @@
 
 | Tasks | Description | Files |
 | ----- | ----- | ----- |
-| <ul><li> - [ ] Task 0 </li></ul> | 0. Readme | [0-readme.js](0-readme.js) |
+| <ul><li> - [x] Task 0 </li></ul> | 0. Readme | [0-readme.js](0-readme.js) |
 | <ul><li> - [ ] Task 1 </li></ul> | 1. Write me | [1-writeme.js](1-writeme.js) |
 | <ul><li> - [ ] Task 2 </li></ul> | 2. Status code | [2-statuscode.js](2-statuscode.js) |
 | <ul><li> - [ ] Task 3 </li></ul> | 3. Star wars movie title | [3-starwars_title.js](3-starwars_title.js) |
