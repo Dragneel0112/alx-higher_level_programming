@@ -16,7 +16,7 @@
 | <ul><li> - [x] Task 1 </li></ul> | 1. With JQuery | [1-script.js](1-script.js) |
 | <ul><li> - [x] Task 2 </li></ul> | 2. Click and turn red | [2-script.js](2-script.js) |
 | <ul><li> - [x] Task 3 </li></ul> | 3. Add `.red` class | [3-script.js](3-script.js) |
-| <ul><li> - [ ] Task 4 </li></ul> | 4. Toggle classes | [4-script.js](4-script.js) |
+| <ul><li> - [x] Task 4 </li></ul> | 4. Toggle classes | [4-script.js](4-script.js) |
 | <ul><li> - [ ] Task 5 </li></ul> | 5. List of elements | [5-script.js](5-script.js) |
 | <ul><li> - [ ] Task 6 </li></ul> | 6. Change the text | [6-script.js](6-script.js) |
 | <ul><li> - [ ] Task 7 </li></ul> | 7. Star wars character | [7-script.js](7-script.js) |
