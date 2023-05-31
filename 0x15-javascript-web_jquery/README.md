@@ -20,7 +20,7 @@
 | <ul><li> - [x] Task 5 </li></ul> | 5. List of elements | [5-script.js](5-script.js) |
 | <ul><li> - [x] Task 6 </li></ul> | 6. Change the text | [6-script.js](6-script.js) |
 | <ul><li> - [x] Task 7 </li></ul> | 7. Star wars character | [7-script.js](7-script.js) |
-| <ul><li> - [ ] Task 8 </li></ul> | 8. Star Wars movies | [8-script.js](8-script.js) |
+| <ul><li> - [x] Task 8 </li></ul> | 8. Star Wars movies | [8-script.js](8-script.js) |
 | <ul><li> - [ ] Task 9 </li></ul> | 9. Say Hello! | [9-script.js](9-script.js) |
 
 ### Advanced
