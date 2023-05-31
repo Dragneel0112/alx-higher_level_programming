@@ -27,7 +27,7 @@
 
 | Tasks | Description | Files |
 | ----- | ----- | ----- |
-| <ul><li> - [ ] Task 10 </li></ul> | 10. No jQuery - document loaded | [100-script.js](100-script.js) |
+| <ul><li> - [x] Task 10 </li></ul> | 10. No jQuery - document loaded | [100-script.js](100-script.js) |
 | <ul><li> - [ ] Task 11 </li></ul> | 11. List, add, remove | [101-script.js](101-script.js) |
 | <ul><li> - [ ] Task 12 </li></ul> | 12. Say hello to everybody! | [102-script.js](102-script.js) |
 | <ul><li> - [ ] Task 13 </li></ul> | 13. And press ENTER | [103-script.js](103-script.js) |
