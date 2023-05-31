@@ -12,7 +12,7 @@
 
 | Tasks | Description | Files |
 | ----- | ----- | ----- |
-| <ul><li> - [ ] Task 0 </li></ul> | 0. No JQuery | [0-script.js](0-script.js) |
+| <ul><li> - [x] Task 0 </li></ul> | 0. No JQuery | [0-script.js](0-script.js) |
 | <ul><li> - [ ] Task 1 </li></ul> | 1. With JQuery | [1-script.js](1-script.js) |
 | <ul><li> - [ ] Task 2 </li></ul> | 2. Click and turn red | [2-script.js](2-script.js) |
 | <ul><li> - [ ] Task 3 </li></ul> | 3. Add `.red` class | [3-script.js](3-script.js) |
